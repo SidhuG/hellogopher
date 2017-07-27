@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"hellogopher/cmd"
+	"github.com/SidhuG/hellogopher/cmd"
 )
 
 func main() {

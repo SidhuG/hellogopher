@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"hellogopher/hello"
+	"github.com/SidhuG/hellogopher/hello"
 )
 
 func init() {
